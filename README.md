@@ -1,3 +1,9 @@
+<div align="center">
+<img src="banner.jpg" width="100%" alt="Arin">
+</div>
+
+<br>
+
 # Hi, I'm Arin  👋
 
 ### Azure Administrator | Cloud Operations
